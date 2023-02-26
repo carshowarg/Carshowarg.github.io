@@ -507,6 +507,11 @@ li a{
 }
 
 
+#card300 .imgbox .img {
+    background-image: url(img/eventos/encuentromixtocalchin.png);
+}
+
+
 /*sobre nosotros*/
 
 .sobrenosotros {

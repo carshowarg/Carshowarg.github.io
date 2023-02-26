@@ -502,6 +502,11 @@ li a{
     background-image: url(img/eventos/carcamotorshow.png);
 }
 
+#card300 .imgbox .img {
+    background-image: url(img/eventos/catriloshowcar.png);
+}
+
+
 /*sobre nosotros*/
 
 .sobrenosotros {

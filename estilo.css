@@ -330,8 +330,21 @@ li a{
 }
 
 .container-cards--show{
-    transform: translateY(150px);
+    transform: translateY(0px);
 }
+
+.contenedor-tutto{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contenedor-tutto--show{
+    transform: translateY(0px);
+}
+
+
 
 .card{
     border-radius: 10px;
@@ -445,7 +458,7 @@ li a{
 #card100 .imgbox .img{
     background-image: url(img/eventos/streets_cars_federacion.png);
 }
-
+/*
 #card10 .imgbox .img{
     background-image: url(img/eventos/alvearonlycars2k23.png);
 }
@@ -453,9 +466,9 @@ li a{
 #card15 .imgbox .img{
     background-image: url(img/eventos/japan_meet_solidarios.png);
 }
-
+*/
 #card20 .imgbox .img{
-    background-image:url(/img/eventos/nyf_cars.png);
+    background-image:url(/img/eventos/pandatroupe.png);
 }
 
 #card30  .imgbox .img{

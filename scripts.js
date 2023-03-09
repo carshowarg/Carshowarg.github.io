@@ -5,12 +5,14 @@ const toggleMenuElement = document.getElementById('toggle-menu');
 const mainMenuElement = document.getElementById('main-menu');
 const containerCard = document.getElementById('BuenosAires');
 const containerCard2 = document.getElementById('Cordoba');
- 
+const containerCard3 = document.getElementById('contenedor-tutto');
+
+
 
 toggleMenuElement.addEventListener('click', () => {
   mainMenuElement.classList.toggle('main-menu--show');
-  containerCard.classList.toggle('container-cards--show');
-  containerCard2.classList.toggle('container-cards--show');
+
+  containerCard2.classList.toggle('contenedor-tutto--show');
 
 });
 

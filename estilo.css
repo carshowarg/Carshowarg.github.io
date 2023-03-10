@@ -458,36 +458,37 @@ li a{
 #card100 .imgbox .img{
     background-image: url(img/eventos/streets_cars_federacion.png);
 }
-/*
+
 #card10 .imgbox .img{
-    background-image: url(img/eventos/alvearonlycars2k23.png);
+    background-image: url(/img/eventos/matheualpiso.png);
 }
 
-#card15 .imgbox .img{
-    background-image: url(img/eventos/japan_meet_solidarios.png);
+#card5 .imgbox .img{
+     background-image:url(/img/eventos/lowstyle_alberti.png);
 }
-*/
+
 #card20 .imgbox .img{
     background-image:url(/img/eventos/pandatroupe.png);
 }
 
-#card30  .imgbox .img{
-    background-image:url(/img/eventos/lowstyle_alberti.png);
-}
-
-#card33 .imgbox .img {
-    background-image: url(/img/eventos/matheualpiso.png);
-}
-
-#card35  .imgbox .img{
+#card30 .imgbox .img{
     background-image:url(/img/eventos/vidalalpisooficial.png);
 }
 
+
+#card35  .imgbox .img{
+    background-image:url(/img/eventos/versailles.png);
+}
+
 #card36 .imgbox .img{
-    background-image: url(/img/eventos/sanvialcorte.png);
+    background-image: url(/img/eventos/quilteam.png);
 }
 
 #card37 .imgbox .img{
+    background-image: url(/img/eventos/sanvialcorte.png);
+}
+
+#card38 .imgbox .img{
     background-image: url(/img/eventos/ourworldshowcar.png);
 }
 
